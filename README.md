@@ -11,7 +11,12 @@ O foco principal foi a implementação de um fluxo de navegação robusto e a ap
 ---
 
 ## 2. Telas do Sistema
-Splash Screen, Login, Cadastro e Home.
+## 📸 Demonstração
+
+| Splash Page | Login | Cadastro | Home |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/splashpage.JPG" width="200"> | <img src="screenshots/login.JPG" width="200"> | <img src="screenshots/cadastro.JPG" width="200"> | <img src="screenshots/home.JPG" width="200"> |
+
 ---
 
 ## 3. Arquitetura e Boas Práticas
