@@ -5,7 +5,9 @@
 
 ## Integrantes do Grupo: 
 João Miguel da Silva Cavalcante
+
 Gabriel Henrique Sartório
+
 Kayky Juan Tavares dos Reis
 
 ## 1. Descrição do Projeto
