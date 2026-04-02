@@ -4,7 +4,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-green.svg)](#2-arquitetura-adotada)
 
 ## 1. Descrição do Projeto
-O **DevConnect** é um ecossistema simplificado de autenticação para desenvolvedores. Este projeto foi desenvolvido como requisito avaliativo para a disciplina de **Desenvolvimento de Dispositivos Móveis**.
+O **DevConnect** é um ecossistema simplificado de autenticação para desenvolvedores. Este projeto foi desenvolvido como requisito avaliativo para a disciplina de **Desenvolvimento de Sistemas Móveis**.
 
 O foco principal foi a implementação de um fluxo de navegação robusto e a aplicação do padrão **MVVM (Model-View-ViewModel)**, garantindo um código escalável e de fácil manutenção.
 
