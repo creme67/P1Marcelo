@@ -11,7 +11,7 @@ O foco principal foi a implementação de um fluxo de navegação robusto e a ap
 ---
 
 ## 2. Telas do Sistema
-| Splash Screen | Login | Cadastro | Home |
+Splash Screen, Login, Cadastro e Home.
 ---
 
 ## 3. Arquitetura e Boas Práticas
