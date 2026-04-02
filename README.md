@@ -3,6 +3,11 @@
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-green.svg)](#2-arquitetura-adotada)
 
+## Integrantes do Grupo: 
+João Miguel da Silva Cavalcante
+Gabriel Henrique Sartório
+Kayky Juan Tavares dos Reis
+
 ## 1. Descrição do Projeto
 O **DevConnect** é um ecossistema simplificado de autenticação para desenvolvedores. Este projeto foi desenvolvido como requisito avaliativo para a disciplina de **Desenvolvimento de Sistemas Móveis**.
 
