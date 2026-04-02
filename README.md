@@ -12,10 +12,6 @@ O foco principal foi a implementação de um fluxo de navegação robusto e a ap
 
 ## 2. Telas do Sistema
 | Splash Screen | Login | Cadastro | Home |
-|-------|-------|----------|------|
-| ![Splash](https://via.placeholder.com/150x300?text=Splash) | ![Login](https://via.placeholder.com/150x300?text=Login) | ![Cadastro](https://via.placeholder.com/150x300?text=Cadastro) | ![Home](https://via.placeholder.com/150x300?text=Home) |
-> *Dica: Substitua os links acima pelos links das imagens na sua pasta de assets após subir o projeto.*
-
 ---
 
 ## 3. Arquitetura e Boas Práticas
